@@ -132,7 +132,7 @@ java FileName
 ## 👨‍💻 **Author**
 
 **Ebadur Rahman**
-💼 Web & Backend Developer | MERN Stack | Laravel
+💼 Software Developer | MERN Stack | Laravel | PHP
 🔗 [LinkedIn](https://www.linkedin.com/in/ebadur-rahman-41960720a/)
 
 ---
